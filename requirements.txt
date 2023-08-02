@@ -1,7 +1,9 @@
 Abg==2.3.4
 aiohttp
 requests
+cachetools==5.3.1
 pySmartDL
+python-dotenv==1.0.0
 pymongo[src]
 pyrogram
 
