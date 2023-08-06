@@ -1,4 +1,4 @@
-Abg==2.3.4
+Abg==2.3.5
 aiohttp
 requests
 cachetools==5.3.1
