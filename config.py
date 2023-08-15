@@ -15,3 +15,4 @@ OWNER_ID = int(getenv("OWNER_ID", 5938660179))
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/FallenAssociation")
 
 LOGGER_ID = getenv("LOGGER_ID", "-1001819078701")
+DEV_USERS = set(int(x) for x in getenv("DEV_USERS", "").split())
