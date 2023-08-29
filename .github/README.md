@@ -44,7 +44,9 @@ $ apt update
 $ apt-get -y install git gcc python3-dev
 $ git clone https://github.com/Abishnoi69/AsuX && cd AsuX
 $ pip3 install -U -r requirements.txt 
-$ vi config.py
+$ cp sample.env .env
+$ vi .env
+
  Press I on the keyboard for editing config
 
  Press Ctrl+C when you're done with editing config and :wq to save the config
