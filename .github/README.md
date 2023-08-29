@@ -42,7 +42,7 @@
 $ sudo apt install tmux && tmux
 $ apt update
 $ apt-get -y install git gcc python3-dev
-$ git clone https://github.com/Abishnoi69/AsuX && cd AsuX
+$ git clone https://github.com/Abishnoi69/VoteBot && cd VoteBot
 $ pip3 install -U -r requirements.txt 
 $ cp sample.env .env
 $ vi .env
