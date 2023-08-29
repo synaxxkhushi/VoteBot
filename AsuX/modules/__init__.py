@@ -16,3 +16,5 @@ def __list_all_modules():
 
 ALL_MODULES = sorted(__list_all_modules())
 __all__ = ALL_MODULES + ["ALL_MODULES"]
+
+PICS = ["https://telegra.ph//file/b5fa277081dddbddd0b12.jpg"]
