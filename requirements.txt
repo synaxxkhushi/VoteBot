@@ -1,7 +1,7 @@
 Abg==2.3.6
 aiohttp
 requests
-cachetools==5.3.1
+cachetools==5.3.2
 pySmartDL
 python-dotenv==1.0.0
 pyrate_limiter
